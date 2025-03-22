@@ -14,6 +14,12 @@ You can install the required packages using pip:
 pip install opencv-python numpy
 ```
 
+## Download YOLOv3 Model
+
+Download the YOLOv3 model weights from the following link and place it in models directory as `models/yolov3.weights` :
+
+[YOLOv3 Weights](https://github.com/patrick013/Object-Detection---Yolov3/raw/refs/heads/master/model/yolov3.weights)
+
 ## Usage
 
 1. Place the images you want to process in the `images/` directory.
